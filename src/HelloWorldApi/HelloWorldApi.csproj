@@ -7,7 +7,7 @@
 
     <IsPublishable>true</IsPublishable>
     <EnableSdkContainerSupport>true</EnableSdkContainerSupport>
-    <ContainerRepository>hello-world-api</ContainerRepository>
+    <ContainerRegistry>docker.io</ContainerRegistry>
+    <ContainerRepository>spenserca/hello-world-api</ContainerRepository>
   </PropertyGroup>
-
 </Project>
